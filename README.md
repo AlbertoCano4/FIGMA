@@ -1,5 +1,9 @@
 # Proyecto: Recipy
 
+🔗 [Enlace al proyecto en Figma](https://www.figma.com/design/8FqKod3zpkyFXo9KBO1zet/INICIO?node-id=434-3763&m=dev&t=zbctEnQREBRvycJt-1)
+
+---
+
 **By Gastrotech**  
 Sofía Azpiroz, Gonzalo Ruiz, Alberto Cano, Paloma Belenguer, Ignacio Fernández, Pelayo Castro  
 **ADEINF-A – Interfaces de computadores**  
@@ -7,7 +11,7 @@ Noviembre 2024
 
 ---
 
-## Nombre y Logotipo
+## Nombre y link
 - **Nombre:** Recipy  
 
 ---
